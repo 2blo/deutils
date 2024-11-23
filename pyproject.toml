@@ -2,7 +2,7 @@
 requires = ["setuptools", "wheel"]
 [project]
 name = "deutils"
-version = "0.1.1"
+version = "1.0.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
