@@ -5,8 +5,8 @@ name = "deutils"
 version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = ["pandas>=2.2.3"]
+requires-python = ">=3.9"
+dependencies = ["pandas"]
 
 [project.optional-dependencies]
 test = ["pytest>=8.3.3"]
